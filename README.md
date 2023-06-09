@@ -8,9 +8,17 @@ Scrapped this lovely site [Books to Scrape](https://books.toscrape.com/)
 4) Traversed all pages to obtain all books from the site
 5) Stored it in a JSON file
 
+How to run?
+
+Install `Scrapy` using pip. Other required dependencies will be automicatically installed 
+
+Run the scrapper by:
+
+```bash
+scrapy crawl bookspider
+```
+
 Things to do in the future:
 
 1) Add multiple user agents to avoid detection
 2) Not sure what?
-
-<!-- How to run? -->
