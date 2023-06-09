@@ -10,7 +10,7 @@ Scrapped this lovely site [Books to Scrape](https://books.toscrape.com/)
 
 How to run?
 
-Install `Scrapy` using pip. Other required dependencies will be automicatically installed 
+Install `Scrapy` using pip. Other required dependencies will be automatically installed 
 
 Run the scrapper by:
 
@@ -21,4 +21,5 @@ scrapy crawl bookspider
 Things to do in the future:
 
 1) Add multiple user agents to avoid detection
-2) Not sure what?
+2) Store to a database
+3) Not sure what?
