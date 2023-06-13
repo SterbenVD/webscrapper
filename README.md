@@ -22,4 +22,4 @@ Things to do in the future:
 
 1) Add multiple user agents to avoid detection
 2) Store to a database
-3) Not sure what?
+3) Plot some Graphs
